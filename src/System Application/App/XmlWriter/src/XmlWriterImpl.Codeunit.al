@@ -135,4 +135,5 @@ codeunit 1484 "XmlWriter Impl."
         XmlTextWriter := XmlTextWriter.XmlTextWriter(StringWriter);
         Initialized := true;
     end;
+    //
 }
